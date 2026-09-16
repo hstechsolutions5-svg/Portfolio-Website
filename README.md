@@ -126,7 +126,7 @@ A university management system developed as a final-year project.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/hstechsolutions5-svg/Portfolio-Website.git
 cd YOUR-REPOSITORY
 ```
 
