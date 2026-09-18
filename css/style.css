@@ -284,8 +284,8 @@ p {
 }
 
 .brand-logo img {
-  width: 210px;
-  max-height: 55px;
+  width: 450px;
+  max-height: 125px;
   object-fit: contain;
   object-position: left;
 }
